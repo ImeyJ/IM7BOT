@@ -1,0 +1,17 @@
+{
+  "type": "module",
+  "name": "im7bot-lid-mjs",
+  "version": "1.0.0",
+  "main": "lid_main.mjs",
+  "scripts": {
+    "start": "node lid_main.mjs"
+  },
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.7.0",
+    "axios": "^1.6.8",
+    "lowdb": "^6.0.1",
+    "uuid": "^9.0.1",
+    "jimp": "^0.22.10",
+    "qrcode-terminal": "^0.12.0"
+  }
+}
