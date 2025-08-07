@@ -10,6 +10,6 @@ export const config = {
     apikey: "YOUR_MEDANPEDIA_APIKEY"
   },
   qris_key: "your_qris_key_here",
-  owner: "628XXXXXXXXX", // nomor admin
-  bot_name: "TOPUPBOT"
+  owner: "6281527727737", // nomor admin
+  bot_name: "IM7BOT"
 };
